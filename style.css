@@ -5,4 +5,33 @@ header h1{
     border: 2px solid gray;
     padding-top: 32px;
     margin-top: 50px;
+    text-align: center;
+}
+.color{
+    display: inline-block;
+    width: 20%;
+    margin: auto;
+    margin-bottom: 15px;
+    border: 1px solid black;
+}
+.green{
+    background-color: #00aa00;
+}
+.blue{
+    background-color: #009fd4;
+}
+.purple{
+    background-color: #b381b3;
+}
+.slate{
+    background-color: #808080;
+}
+.yellow{
+    background-color: #aa8f00;
+}
+.orange{
+    background-color: #ff4500;
+}
+.red{
+    background-color: #f64747;
 }
