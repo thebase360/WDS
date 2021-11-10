@@ -1,6 +1,15 @@
 header h1{
     text-align: center;
 }
+.title{
+    font-size: 36px;
+    font-weight: 700;
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+}
 .container{
     border: 2px solid gray;
     padding-top: 32px;
@@ -13,6 +22,8 @@ header h1{
     margin: auto;
     margin-bottom: 15px;
     border: 1px solid black;
+    font-weight: 700;
+    font-size: 20px;
 }
 .green{
     background-color: #00aa00;
@@ -96,4 +107,19 @@ header h1{
     font-weight: 700;
     font-size: 24px;
     font-style: italic;
+}
+/* text Style*/
+
+.styles{
+    display: inline-block;
+    padding: 10px 20px;
+}
+.styles ul li{
+    font-size: 24px;
+    font-weight: 500;
+    padding: 4px 0;
+}
+.styles p{
+    font-size: 28px;
+    font-weight: 700;
 }
