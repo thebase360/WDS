@@ -35,3 +35,65 @@ header h1{
 .red{
     background-color: #f64747;
 }
+/* Fonts section */
+.fonts{
+    display: inline-block;
+    padding: 10px 10px;
+    margin: auto;
+    height: auto;
+}
+.font-title{
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-color: grey;
+}
+#font1-1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 24px;
+}
+#font1-2{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+#font1-3{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    font-style:italic;
+}
+#font2-1{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+#font2-2{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+#font2-3{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    font-style: italic;
+}
+#font3-1{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+#font3-2{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+#font3-3{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    font-style: italic;
+}
